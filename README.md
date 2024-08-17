@@ -75,7 +75,7 @@ HOOT Dataset: [GitHub](https://github.com/gzdshn/hoot-toolkit)
 
 Hoot Training/Testing Notebook: [GitHub](https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/AbdulBhutta_FairMOT_HOOT.ipynb)
 
-Report: [GitHub]()
+Report: [GitHub](https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/AbdulBhutta_FinalReport.pdf)
 
 Trained Model (Epoch 30): [Google Drive](https://drive.google.com/file/d/1M2xbOYVY7BTlAyB7T1WPBWWcjw5hzTVT/view?usp=sharing)
 
