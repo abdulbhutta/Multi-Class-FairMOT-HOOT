@@ -1,0 +1,15 @@
+{
+    "root":"/home/abdulbhutta/Desktop/MCMOT-master/dataset",
+    "train":
+    {
+        "hoot":"./data/hoot.train"
+    },
+    "test_emb":
+    {
+        "hoot":"./data/hoot.test"
+    },
+    "test":
+    {
+        "hoot":"./data/hoot.test"
+    }
+}
