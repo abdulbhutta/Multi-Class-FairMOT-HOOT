@@ -1,7 +1,7 @@
 # Multi-Class FairMOT-HOOT
 
 ## Abstract
-This repo implements a multi-class FairMOT model and trains it using the Heavy Occlusion for Object Tracking (HOOT) dataset. The model is trained on a subset of the HOOT dataset containing 20 classes of objects and tested on 12 objects with 16 videos. It is based on the FairMOT and MCMOT repositories and modified for the HOOT dataset. To ensure the same results, it's crucial to follow the steps below or view step-by-step insructions in the [Jupyter Notebook](https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/AbdulBhutta_FairMOT_HOOT.ipynb).
+This repo implements a multi-class FairMOT model and trains it using the Heavy Occlusion for Object Tracking (HOOT) dataset. The model is trained on a subset of the HOOT dataset containing 20 classes of objects and tested on 12 objects with 16 videos. It is based on the FairMOT and MCMOT repositories and modified for the HOOT dataset. To ensure the same results, it's crucial to follow the steps below or view step-by-step instructions in the [Jupyter Notebook](https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/AbdulBhutta_FairMOT_HOOT.ipynb).
  
 <img src="https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/assets/track_apple.gif" alt="Description" width="49%" height="50%"/> <img src="https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/assets/track_carrot.gif" alt="Description" width="49%" height="50%"/> 
 <img src="https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/assets/track_cat.gif" alt="Description" width="49%" height="50%"/> <img src="https://github.com/abdulbhutta/Multi-Class-FairMOT-HOOT/blob/main/assets/track_deer.gif" alt="Description" width="49%" height="50%"/> 
